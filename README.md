@@ -27,3 +27,8 @@
 ## 版本说明  
 > 仓库中文件夹的版本为 Termius 在 Google Play 商店中的版本，发布页的版本为按照更新顺序排序的版本  
 > 更新日志请查看发布页
+
+## 其他  
+
+本项目 CDN 加速及安全防护由 [Tencent EdgeOne](https://edgeone.ai/zh?from=github) 赞助  
+![image](https://github.com/user-attachments/assets/d2ed5354-fa9a-4aaa-86de-1782d327a898)
